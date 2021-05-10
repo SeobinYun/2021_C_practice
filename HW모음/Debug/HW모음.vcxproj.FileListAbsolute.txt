@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\HW모음\Debug\HW모음.exe
+C:\Users\user\Desktop\HW모음\Debug\HW모음.pdb
+C:\Users\user\Desktop\C\HW모음\Debug\HW모음.exe
+C:\Users\user\Desktop\C\HW모음\Debug\HW모음.pdb

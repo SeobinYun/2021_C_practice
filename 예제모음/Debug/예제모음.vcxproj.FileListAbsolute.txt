@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\예제모음\Debug\예제모음.exe
+C:\Users\user\Desktop\예제모음\Debug\예제모음.pdb
+C:\Users\user\Desktop\C\예제모음\Debug\예제모음.exe
+C:\Users\user\Desktop\C\예제모음\Debug\예제모음.pdb
